@@ -59,9 +59,9 @@ insertion_sort(list_of_nums)
 ```
 
 ## Output:
-i)	#Selection Sort
+##Selection Sort
 ![image](https://github.com/shashinprasad/Sorting-Algorithm/assets/129143499/3e1f9dd2-ce1e-4082-9110-ca09b9e09420)
-ii)	#Insertion Sort
+##ii)	Insertion Sort
 ![image](https://github.com/shashinprasad/Sorting-Algorithm/assets/129143499/9aa788ad-b432-44ef-9ec6-c78053be8b5c)
 
 
